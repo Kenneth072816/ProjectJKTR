@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603707706148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2872187797",
+    "id" : "12110CA3",
+    "lastKnownWriteTime" : 1603707743,
+    "last_content_update" : 1603707743239,
+    "path" : "~/Downloads/ProjectJKTR/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "20,26",
+        "scrollLine" : "13",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
